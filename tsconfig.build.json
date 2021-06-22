@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": [
+    "nest-crypto-crud/node_modules",
+    "test", "dist", "**/*spec.ts"]
+}
